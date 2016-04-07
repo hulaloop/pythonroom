@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "firebase": "^2.4.2"
+  },
+  "name": "pythonroom",
+  "readme": "README.md",
+  "version": "1.0.0",
+  "description": "Runs code from Pythonroom locally on this computer.",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^2.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hulaloop/pythonroom.git"
+  },
+  "keywords": [
+    "Python",
+    "education"
+  ],
+  "author": "Hulaloop, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hulaloop/pythonroom/issues"
+  },
+  "homepage": "https://github.com/hulaloop/pythonroom#readme"
+}
